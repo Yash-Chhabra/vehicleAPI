@@ -1,0 +1,51 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Salon",
+      "services": [
+        {
+          "id": "1",
+          "name": "Pearl Facial",
+          "originalPrice": 899,
+          "discountedPrice": 599,
+          "imageName": "pearl_facial"
+        },
+        {
+          "id": "2",
+          "name": "Gold Facial",
+          "originalPrice": 999,
+          "discountedPrice": 699,
+          "imageName": "gold_facial"
+        },
+        {
+          "id": "3",
+          "name": "Diamond Facial",
+          "originalPrice": 1299,
+          "discountedPrice": 799,
+          "imageName": "diamond_facial"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Carpenter",
+      "services": [
+        {
+          "id": "4",
+          "name": "Fix Chair",
+          "originalPrice": 199,
+          "discountedPrice": 99,
+          "imageName": "fix_chair"
+        },
+        {
+          "id": "5",
+          "name": "Install Shelf",
+          "originalPrice": 299,
+          "discountedPrice": 199,
+          "imageName": "install_shelf"
+        }
+      ]
+    }
+  ]
+}
