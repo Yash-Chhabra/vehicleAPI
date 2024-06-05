@@ -9,21 +9,21 @@
           "name": "Pearl Facial",
           "originalPrice": 899,
           "discountedPrice": 599,
-          "imageName": "https://imgs.search.brave.com/dd8aTCnclAqMlIUNJL5V9dvB8zD8S-swOIHhkLdRs6E/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/YS50cmFuc2Zlcm1h/cmt0LnRlY2hub2xv/Z3kvcG9ydHJhaXQv/YmlnLzgxOTgtMTY5/NDYwOTY3MC5qcGc_/bG09MQ"
+          "imageName": "https://images-na.ssl-images-amazon.com/images/I/51oo9GNDX2L._AC_UL600_SR600,600_.jpg"
         },
         {
           "id": "2",
           "name": "Gold Facial",
           "originalPrice": 999,
           "discountedPrice": 699,
-          "imageName": "gold_facial"
+          "imageName": "https://femina.wwmindia.com/content/2020/jan/special-gold-facial-pack.jpg"
         },
         {
           "id": "3",
           "name": "Diamond Facial",
           "originalPrice": 1299,
           "discountedPrice": 799,
-          "imageName": "diamond_facial"
+          "imageName": "https://aesthetichouse.com/storage/2022/11/Which-Diamond-Facial-is-Best-for-Glowing-Skin-scaled.jpeg"
         }
       ]
     },
@@ -36,16 +36,131 @@
           "name": "Fix Chair",
           "originalPrice": 199,
           "discountedPrice": 99,
-          "imageName": "fix_chair"
+          "imageName": "https://www.shutterstock.com/image-photo/man-repairing-chair-room-260nw-557353564.jpg"
         },
         {
           "id": "5",
           "name": "Install Shelf",
           "originalPrice": 299,
           "discountedPrice": 199,
-          "imageName": "install_shelf"
+          "imageName": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Am49qvOGLUuy5cWuzKa-adH982wuE9xrrg&s"
+        },
+        {
+          "id": "6",
+          "name": "Fix Door",
+          "originalPrice": 399,
+          "discountedPrice": 299,
+          "imageName": "https://media.istockphoto.com/id/865389444/photo/young-man-fixing-a-door-lock.jpg?s=612x612&w=0&k=20&c=_cX_w2x4RqtpdAOtis-avqUDGcUTP4Y-Fq1GBS2wvPA="
         }
       ]
-    }
+    },
+    {
+      "id": "3",
+      "name": "Plumber",
+      "services": [
+        {
+          "id": "7",
+          "name": "Fix Leaky Faucet",
+          "originalPrice": 150,
+          "discountedPrice": 100,
+          "imageName": "https://media.gettyimages.com/id/1361116682/photo/plumber-fixing-a-leaking-bathroom-faucet.jpg?s=612x612&w=gi&k=20&c=NDFz9fmyZdrr6hyJ8KULj0QT4ktUUPT_msAvasdZBDQ="
+        },
+        {
+          "id": "8",
+          "name": "Unclog Drain",
+          "originalPrice": 250,
+          "discountedPrice": 180,
+          "imageName": "https://media.gettyimages.com/id/185092169/photo/plumber-unclogging-bathtub-drain.jpg?s=612x612&w=gi&k=20&c=fd8KKJSUdMJTDdgKB5wfbNqn_sALso1cuLvTGe7ZLdQ="
+        },
+        {
+          "id": "9",
+          "name": "Install Water Heater",
+          "originalPrice": 500,
+          "discountedPrice": 450,
+          "imageName": "https://contentgrid.homedepot-static.com/hdus/en_US/DTCCOMNEW/Articles/what-to-expect-during-your-water-heater-installation-appointment-step-2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Electrician",
+      "services": [
+        {
+          "id": "10",
+          "name": "Install Ceiling Fan",
+          "originalPrice": 200,
+          "discountedPrice": 150,
+          "imageName": "https://www.shutterstock.com/image-photo/electrician-repairing-ceiling-fan-lamps-260nw-1958436523.jpg"
+        },
+        {
+          "id": "11",
+          "name": "Repair Electrical Outlet",
+          "originalPrice": 120,
+          "discountedPrice": 80,
+          "imageName": "https://www.shutterstock.com/image-photo/professional-electrician-working-on-home-260nw-2176052627.jpg"
+        },
+        {
+          "id": "12",
+          "name": "Upgrade Circuit Breaker",
+          "originalPrice": 400,
+          "discountedPrice": 350,
+          "imageName": "https://media.istockphoto.com/id/958981314/photo/electrician-upgrading-a-homes-distribution-board.jpg?s=612x612&w=0&k=20&c=RHThyjzrB0AgeN7xg9DqzSyvxhOHkMWm0Ldl2r0Yeas="
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Car Service",
+      "services": [
+        {
+          "id": "13",
+          "name": "Oil Change",
+          "originalPrice": 70,
+          "discountedPrice": 50,
+          "imageName": "https://www.shutterstock.com/image-photo/mechanic-pouring-oil-into-engine-600nw-2196366251.jpg"
+        },
+        {
+          "id": "14",
+          "name": "Brake Inspection",
+          "originalPrice": 100,
+          "discountedPrice": 75,
+          "imageName": "https://d1291llfqm0n7k.cloudfront.net/wp-content/uploads/JIFY5320296_JPGS3_600X380.jpg"
+        },
+        {
+          "id": "15",
+          "name": "Tire Rotation",
+          "originalPrice": 50,
+          "discountedPrice": 35,
+          "imageName": "https://di-uploads-pod15.dealerinspire.com/wolfchasenissan/uploads/2019/01/tire-roation.jpg"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Cleaning",
+      "services": [
+        {
+          "id": "16",
+          "name": "House Cleaning",
+          "originalPrice": 150,
+          "discountedPrice": 120,
+          "imageName": "https://www.shutterstock.com/image-photo/female-janitor-cleaning-supplies-kitchen-600nw-1571020054.jpg"
+        },
+        {
+          "id": "17",
+          "name": "Carpet Cleaning",
+          "originalPrice": 200,
+          "discountedPrice": 170,
+          "imageName": "https://puroclean.ca/wp-content/uploads/2023/03/AdobeStock_200664929.jpeg"
+        },
+        {
+          "id": "18",
+          "name": "Window Cleaning",
+          "originalPrice": 100,
+          "discountedPrice": 80,
+          "imageName": "https://media.istockphoto.com/id/1150282133/photo/cleaning-window-pane-with-detergent.jpg?s=612x612&w=0&k=20&c=BkzVas8qZ_VLxLDWpDAPbVSDRXgRFMxbI3_NHcamUfk="
+        }
+      ]
+    }                
   ]
 }
