@@ -7,22 +7,22 @@
         {
           "id": "1",
           "name": "Pearl Facial",
-          "originalPrice": 899,
-          "discountedPrice": 599,
+          "originalPrice": 69,
+          "discountedPrice": 49,
           "imageName": "https://images-na.ssl-images-amazon.com/images/I/51oo9GNDX2L._AC_UL600_SR600,600_.jpg"
         },
         {
           "id": "2",
           "name": "Gold Facial",
-          "originalPrice": 999,
-          "discountedPrice": 699,
+          "originalPrice": 89,
+          "discountedPrice": 69,
           "imageName": "https://femina.wwmindia.com/content/2020/jan/special-gold-facial-pack.jpg"
         },
         {
           "id": "3",
           "name": "Diamond Facial",
-          "originalPrice": 1299,
-          "discountedPrice": 799,
+          "originalPrice": 109,
+          "discountedPrice": 89,
           "imageName": "https://aesthetichouse.com/storage/2022/11/Which-Diamond-Facial-is-Best-for-Glowing-Skin-scaled.jpeg"
         }
       ]
@@ -34,22 +34,22 @@
         {
           "id": "4",
           "name": "Fix Chair",
-          "originalPrice": 199,
-          "discountedPrice": 99,
+          "originalPrice": 59,
+          "discountedPrice": 49,
           "imageName": "https://www.shutterstock.com/image-photo/man-repairing-chair-room-260nw-557353564.jpg"
         },
         {
           "id": "5",
           "name": "Install Shelf",
-          "originalPrice": 299,
-          "discountedPrice": 199,
+          "originalPrice": 199,
+          "discountedPrice": 149,
           "imageName": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Am49qvOGLUuy5cWuzKa-adH982wuE9xrrg&s"
         },
         {
           "id": "6",
           "name": "Fix Door",
-          "originalPrice": 399,
-          "discountedPrice": 299,
+          "originalPrice": 199,
+          "discountedPrice": 149,
           "imageName": "https://media.istockphoto.com/id/865389444/photo/young-man-fixing-a-door-lock.jpg?s=612x612&w=0&k=20&c=_cX_w2x4RqtpdAOtis-avqUDGcUTP4Y-Fq1GBS2wvPA="
         }
       ]
@@ -88,8 +88,8 @@
         {
           "id": "10",
           "name": "Install Ceiling Fan",
-          "originalPrice": 200,
-          "discountedPrice": 150,
+          "originalPrice": 100,
+          "discountedPrice": 80,
           "imageName": "https://www.shutterstock.com/image-photo/electrician-repairing-ceiling-fan-lamps-260nw-1958436523.jpg"
         },
         {
@@ -122,8 +122,8 @@
         {
           "id": "14",
           "name": "Brake Inspection",
-          "originalPrice": 100,
-          "discountedPrice": 75,
+          "originalPrice": 60,
+          "discountedPrice": 40,
           "imageName": "https://d1291llfqm0n7k.cloudfront.net/wp-content/uploads/JIFY5320296_JPGS3_600X380.jpg"
         },
         {
@@ -149,15 +149,15 @@
         {
           "id": "17",
           "name": "Carpet Cleaning",
-          "originalPrice": 200,
-          "discountedPrice": 170,
+          "originalPrice": 100,
+          "discountedPrice": 70,
           "imageName": "https://puroclean.ca/wp-content/uploads/2023/03/AdobeStock_200664929.jpeg"
         },
         {
           "id": "18",
           "name": "Window Cleaning",
-          "originalPrice": 100,
-          "discountedPrice": 80,
+          "originalPrice": 200,
+          "discountedPrice": 160,
           "imageName": "https://media.istockphoto.com/id/1150282133/photo/cleaning-window-pane-with-detergent.jpg?s=612x612&w=0&k=20&c=BkzVas8qZ_VLxLDWpDAPbVSDRXgRFMxbI3_NHcamUfk="
         }
       ]
